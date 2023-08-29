@@ -5,6 +5,9 @@ Apaixonado por jogos, eu sempre tive o desejo de aprender a programar para desen
 Atualmente estudo JS no curso de Desenvolvimento de Software pela Cubos Academy, mas tenho conhecimentos básicos em C, Java e C#. Além destas, também programo em GML, linguagem do Game Maker Studio, nas horas vagas; 
 
 Meus contatos:
+
 joandersonoliverashford@hotmail.com
+
 https://www.linkedin.com/in/joanderson-oliveira-bb5b87236/
+
 (88) 9 8829-5050
